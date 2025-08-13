@@ -1,0 +1,6 @@
+To-Do List:
+
+1. Finalize client authentication
+2. Improve error handling
+3. Prepare demo slides
+4. Test large file uploads

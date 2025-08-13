@@ -1,0 +1,6 @@
+[INFO] 2025-05-13 10:00:00 - Server started.
+[INFO] 2025-05-13 10:00:02 - Config check passed.
+[INFO] 2025-05-13 10:00:04 - Health check completed.
+[ERROR] 2025-05-13 10:01:45 - Failed to open file: /data/missing.txt
+[INFO] 2025-05-13 10:02:10 - Client disconnected: 192.168.1.10
+[INFO] 2025-05-13 10:05:00 - Server shutdown initiated.

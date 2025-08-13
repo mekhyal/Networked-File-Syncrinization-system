@@ -1,0 +1,8 @@
+[INFO] 2025-05-13 10:00:00 - Server started.
+[INFO] 2025-05-13 10:00:01 - Configuration loaded.
+[INFO] 2025-05-13 10:00:03 - Listening on port 4590.
+[INFO] 2025-05-13 10:00:05 - New client connected: 192.168.1.10
+[WARNING] 2025-05-13 10:01:22 - High memory usage detected.
+[ERROR] 2025-05-13 10:01:45 - Failed to open file: /data/missing.txt
+[INFO] 2025-05-13 10:02:10 - Client disconnected: 192.168.1.10
+[INFO] 2025-05-13 10:05:00 - Server shutdown initiated.

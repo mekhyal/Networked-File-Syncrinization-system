@@ -1,0 +1,5 @@
+Meeting Summary – May 12, 2025
+
+- Discussed file synchronization progress.
+- Decided to use rolling-checksum for better performance.
+- Assigned testing tasks for each module.

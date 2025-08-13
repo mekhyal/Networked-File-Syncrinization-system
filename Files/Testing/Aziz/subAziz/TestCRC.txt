@@ -1,0 +1,21 @@
+Cyclic Redundancy Check (CRC)
+===============================
+A CRC (Cyclic Redundancy Check) is an error-detecting code widely used in digital networks and storage devices to detect accidental changes to raw data. A CRC-enabled transmitter processes a message block, attaches the CRC checksum, and sends the data. The receiver recomputes the CRC and compares it to the transmitted checksum. If they differ, an error is detected.
+
+How CRC Works
+-------------
+1. The data block is treated as a polynomial and divided by a predetermined generator polynomial.
+2. The remainder of this division becomes the CRC code.
+3. The code is appended to the original data for transmission.
+
+Typical Use Cases
+-----------------
+- Ethernet frames
+- Storage devices (e.g., hard drives, SSDs)
+- File transfer protocols
+
+Advantages and Limitations
+--------------------------
+CRCs are very good at detecting common transmission errors (burst errors), but they are not cryptographic hashes and should not be used for security purposes.
+
+

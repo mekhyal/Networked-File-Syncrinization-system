@@ -1,0 +1,5 @@
+Meeting Summary – May 12, 2025
+
+- Discussed file synchronization progress.
+- Agreed on adding CRC32-based verification.
+- Assigned testing tasks for each module.

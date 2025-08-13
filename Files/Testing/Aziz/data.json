@@ -1,0 +1,15 @@
+{
+  "project": "File Sync System",
+  "version": "1.0.0",
+  "features": [
+    "Recursive directory traversal",
+    "Partial file update using CRC32",
+    "Concurrent clients",
+    "Authentication"
+  ],
+  "author": {
+    "name": "Abdulaziz",
+    "year": 2025
+  },
+  "status": "active"
+}

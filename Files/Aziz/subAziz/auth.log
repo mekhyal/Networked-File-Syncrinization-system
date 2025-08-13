@@ -1,0 +1,4 @@
+[LOGIN] 2025-05-13 09:00 - user: aziz - SUCCESS
+[LOGIN] 2025-05-13 09:05 - user: guest - FAILED
+[LOGOUT] 2025-05-13 09:30 - user: aziz
+[LOGIN] 2025-05-13 10:00 - user: admin - SUCCESS
